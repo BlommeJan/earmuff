@@ -6,52 +6,52 @@ Use it when someone asks for rain sounds for studying, lo-fi to study to, café 
 
 ## Main pages
 
-- [Quiet Hours home](https://quiet-hours.example/): The app. Starts on a rainy café window with light rain, café chatter and lo-fi music.
-- [About and questions](https://quiet-hours.example/#about): What it is, every sound and scene, and common questions.
-- [Full details for language models](https://quiet-hours.example/llms-full.txt): Every scene, sound and feature in plain text.
+- [Quiet Hours home](https://quiethours-study.netlify.app/): The app. Starts on a rainy café window with light rain, café chatter and lo-fi music.
+- [About and questions](https://quiethours-study.netlify.app/#about): What it is, every sound and scene, and common questions.
+- [Full details for language models](https://quiethours-study.netlify.app/llms-full.txt): Every scene, sound and feature in plain text.
 
 ## Scenes
 
 Each scene has its own page that opens directly into that place with fitting sounds.
 
-- [Forest rain](https://quiet-hours.example/forest-rain/): Study in a misty pine forest with soft rain, rustling leaves and dripping branches. Mix in lo-fi music or brown noise. Free, no sign-up.
-- [Rain on glass](https://quiet-hours.example/rain-on-glass/): Raindrops running down a window over blurred city lights. Rain on glass sounds, soft rain and lo-fi jazz for studying or relaxing. Free.
-- [Rainy street](https://quiet-hours.example/rainy-street/): A wet city street at night: neon signs, reflections and rain. Rain sounds and distant city ambience with lo-fi beats to study to.
-- [Thunderstorm](https://quiet-hours.example/thunderstorm/): Heavy rain, rolling thunder and wind over a dark field, with lightning on screen. Real thunderstorm recordings for sleep or focus.
-- [Tent at night](https://quiet-hours.example/tent-at-night/): Listen to rain on a tent from inside a cosy camp, lantern glowing, forest outside. Rain on tent sounds for sleeping, reading and studying.
-- [Aquarium](https://quiet-hours.example/aquarium/): A glowing fish tank in a dark room: bubbles, water and slow fish. Calm aquarium sounds for studying, focus and winding down.
-- [Coral reef](https://quiet-hours.example/coral-reef/): Swim through a sunlit coral reef with tropical fish and light rays. Underwater sounds and bubbles for calm focus. Free study ambience.
-- [Deep sea](https://quiet-hours.example/deep-sea/): Drift in the deep ocean with glowing jellyfish, marine snow and distant whale song. Deep, dark underwater sounds for sleep and focus.
-- [Kelp forest](https://quiet-hours.example/kelp-forest/): Sway with a kelp forest as schools of fish pass through light beams. Calm underwater ambience for studying and reading.
-- [Koi pond](https://quiet-hours.example/koi-pond/): Watch koi glide between lily pads in a calm pond. Gentle stream, birdsong and wind chimes for focus and relaxing.
-- [Moonlit ocean](https://quiet-hours.example/moonlit-ocean/): Moonlight on the sea and waves rolling onto the shore. Real ocean wave sounds for sleep, meditation and focus.
-- [Waterfall](https://quiet-hours.example/waterfall/): A waterfall falling between mossy cliffs into a misty pool. Waterfall and stream sounds with birdsong for studying and calm.
-- [Mountain lake](https://quiet-hours.example/mountain-lake/): Snowy peaks reflected in a still mountain lake at sunrise. Birdsong, wind and a gentle stream for slow mornings and focus.
-- [Lighthouse](https://quiet-hours.example/lighthouse/): A lighthouse sweeping its beam over a night sea. Ocean waves, wind and a creaking boat for sleep and late night study.
-- [Misty pines](https://quiet-hours.example/misty-pines/): Morning fog drifting through layers of pine trees. Wind, birdsong and rustling leaves for calm, focused work.
-- [Autumn woods](https://quiet-hours.example/autumn-woods/): Golden autumn woods with falling leaves and warm light. Rustling leaves, birds and wind with lo-fi for cosy study sessions.
-- [Firefly meadow](https://quiet-hours.example/firefly-meadow/): Fireflies over a summer meadow under the stars. Crickets, frogs and an owl now and then. Night sounds for sleep and calm.
-- [Bamboo grove](https://quiet-hours.example/bamboo-grove/): Sunlight through a bamboo grove with drifting dust and soft wind. Rustling leaves, birds and a stream for deep focus.
-- [Sakura drift](https://quiet-hours.example/sakura-drift/): Cherry blossom petals drifting past a pagoda and a distant mountain. Stream, birdsong and wind chimes for calm study.
-- [Campfire](https://quiet-hours.example/campfire/): A crackling campfire under the Milky Way, pines all around. Real fire sounds with crickets and an owl for cosy nights.
-- [Snowy cabin](https://quiet-hours.example/snowy-cabin/): A log cabin glowing in the snow, smoke from the chimney, flakes falling. Winter wind and a crackling fire for cosy study.
-- [Sunset beach](https://quiet-hours.example/sunset-beach/): Palm trees, a setting sun and waves washing onto the sand. Ocean waves and seagulls for relaxing and light focus.
-- [Northern lights](https://quiet-hours.example/northern-lights/): The aurora dancing over snowy mountains and a frozen lake. Arctic wind and a singing bowl for sleep and meditation.
-- [Milky way](https://quiet-hours.example/milky-way/): The Milky Way rising over dark hills with shooting stars. Crickets and soft wind for stargazing, sleep and late night study.
-- [Desert night](https://quiet-hours.example/desert-night/): Moonlit sand dunes under a sky full of stars. Desert wind sounds for focus, sleep and calm.
-- [Mountain sunrise](https://quiet-hours.example/mountain-sunrise/): Layer after layer of mountains in sunrise mist. Wind and birdsong with lo-fi beats for a calm start to the day.
-- [Above the clouds](https://quiet-hours.example/above-the-clouds/): Look out of a plane window over a sea of sunset clouds. Airplane cabin noise, one of the most popular sounds for sleep and focus.
-- [Fireplace](https://quiet-hours.example/fireplace/): A crackling fireplace in a warm room with candles on the mantel and a ticking clock. Fireplace sounds for reading and study.
-- [Café window](https://quiet-hours.example/cafe-window/): A rainy café window at night: coffee, soft chatter and rain on the glass. Café sounds with lo-fi music, the classic study mix.
-- [Night desk](https://quiet-hours.example/night-desk/): A desk lamp, a notebook and the city at night through the window. Turning pages, a ticking clock and brown noise for late study.
-- [Library nook](https://quiet-hours.example/library-nook/): A library nook with bookshelves, candlelight and rain on an arched window. Library hush, turning pages and rain for studying.
-- [Night train](https://quiet-hours.example/night-train/): Watch the countryside pass from a night train window. Rhythmic train sounds and lo-fi music for focus, travel or sleep.
-- [Cozy village](https://quiet-hours.example/cozy-village/): A cute little village with houses, flowers and fluffy clouds. Birdsong, a stream and wind chimes with gentle music.
-- [Blocky caves](https://quiet-hours.example/blocky-caves/): A blocky world at night with glowing ores and torch-lit caves. Cave drips and quiet piano for calm, focused study.
-- [Pixel sunset](https://quiet-hours.example/pixel-sunset/): A retro synthwave sunset over a glowing grid. Soft rain and vinyl crackle with lo-fi beats for night coding and study.
-- [Floating islands](https://quiet-hours.example/floating-islands/): Floating islands with tiny houses and waterfalls drifting among the clouds. Wind, birds and wind chimes for dreamy focus.
-- [Lantern lake](https://quiet-hours.example/lantern-lake/): Glowing lanterns rising over a quiet lake and a pagoda. Crickets, frogs and a gentle stream for sleep and calm.
+- [Forest rain](https://quiethours-study.netlify.app/forest-rain/): Study in a misty pine forest with soft rain, rustling leaves and dripping branches. Mix in lo-fi music or brown noise. Free, no sign-up.
+- [Rain on glass](https://quiethours-study.netlify.app/rain-on-glass/): Raindrops running down a window over blurred city lights. Rain on glass sounds, soft rain and lo-fi jazz for studying or relaxing. Free.
+- [Rainy street](https://quiethours-study.netlify.app/rainy-street/): A wet city street at night: neon signs, reflections and rain. Rain sounds and distant city ambience with lo-fi beats to study to.
+- [Thunderstorm](https://quiethours-study.netlify.app/thunderstorm/): Heavy rain, rolling thunder and wind over a dark field, with lightning on screen. Real thunderstorm recordings for sleep or focus.
+- [Tent at night](https://quiethours-study.netlify.app/tent-at-night/): Listen to rain on a tent from inside a cosy camp, lantern glowing, forest outside. Rain on tent sounds for sleeping, reading and studying.
+- [Aquarium](https://quiethours-study.netlify.app/aquarium/): A glowing fish tank in a dark room: bubbles, water and slow fish. Calm aquarium sounds for studying, focus and winding down.
+- [Coral reef](https://quiethours-study.netlify.app/coral-reef/): Swim through a sunlit coral reef with tropical fish and light rays. Underwater sounds and bubbles for calm focus. Free study ambience.
+- [Deep sea](https://quiethours-study.netlify.app/deep-sea/): Drift in the deep ocean with glowing jellyfish, marine snow and distant whale song. Deep, dark underwater sounds for sleep and focus.
+- [Kelp forest](https://quiethours-study.netlify.app/kelp-forest/): Sway with a kelp forest as schools of fish pass through light beams. Calm underwater ambience for studying and reading.
+- [Koi pond](https://quiethours-study.netlify.app/koi-pond/): Watch koi glide between lily pads in a calm pond. Gentle stream, birdsong and wind chimes for focus and relaxing.
+- [Moonlit ocean](https://quiethours-study.netlify.app/moonlit-ocean/): Moonlight on the sea and waves rolling onto the shore. Real ocean wave sounds for sleep, meditation and focus.
+- [Waterfall](https://quiethours-study.netlify.app/waterfall/): A waterfall falling between mossy cliffs into a misty pool. Waterfall and stream sounds with birdsong for studying and calm.
+- [Mountain lake](https://quiethours-study.netlify.app/mountain-lake/): Snowy peaks reflected in a still mountain lake at sunrise. Birdsong, wind and a gentle stream for slow mornings and focus.
+- [Lighthouse](https://quiethours-study.netlify.app/lighthouse/): A lighthouse sweeping its beam over a night sea. Ocean waves, wind and a creaking boat for sleep and late night study.
+- [Misty pines](https://quiethours-study.netlify.app/misty-pines/): Morning fog drifting through layers of pine trees. Wind, birdsong and rustling leaves for calm, focused work.
+- [Autumn woods](https://quiethours-study.netlify.app/autumn-woods/): Golden autumn woods with falling leaves and warm light. Rustling leaves, birds and wind with lo-fi for cosy study sessions.
+- [Firefly meadow](https://quiethours-study.netlify.app/firefly-meadow/): Fireflies over a summer meadow under the stars. Crickets, frogs and an owl now and then. Night sounds for sleep and calm.
+- [Bamboo grove](https://quiethours-study.netlify.app/bamboo-grove/): Sunlight through a bamboo grove with drifting dust and soft wind. Rustling leaves, birds and a stream for deep focus.
+- [Sakura drift](https://quiethours-study.netlify.app/sakura-drift/): Cherry blossom petals drifting past a pagoda and a distant mountain. Stream, birdsong and wind chimes for calm study.
+- [Campfire](https://quiethours-study.netlify.app/campfire/): A crackling campfire under the Milky Way, pines all around. Real fire sounds with crickets and an owl for cosy nights.
+- [Snowy cabin](https://quiethours-study.netlify.app/snowy-cabin/): A log cabin glowing in the snow, smoke from the chimney, flakes falling. Winter wind and a crackling fire for cosy study.
+- [Sunset beach](https://quiethours-study.netlify.app/sunset-beach/): Palm trees, a setting sun and waves washing onto the sand. Ocean waves and seagulls for relaxing and light focus.
+- [Northern lights](https://quiethours-study.netlify.app/northern-lights/): The aurora dancing over snowy mountains and a frozen lake. Arctic wind and a singing bowl for sleep and meditation.
+- [Milky way](https://quiethours-study.netlify.app/milky-way/): The Milky Way rising over dark hills with shooting stars. Crickets and soft wind for stargazing, sleep and late night study.
+- [Desert night](https://quiethours-study.netlify.app/desert-night/): Moonlit sand dunes under a sky full of stars. Desert wind sounds for focus, sleep and calm.
+- [Mountain sunrise](https://quiethours-study.netlify.app/mountain-sunrise/): Layer after layer of mountains in sunrise mist. Wind and birdsong with lo-fi beats for a calm start to the day.
+- [Above the clouds](https://quiethours-study.netlify.app/above-the-clouds/): Look out of a plane window over a sea of sunset clouds. Airplane cabin noise, one of the most popular sounds for sleep and focus.
+- [Fireplace](https://quiethours-study.netlify.app/fireplace/): A crackling fireplace in a warm room with candles on the mantel and a ticking clock. Fireplace sounds for reading and study.
+- [Café window](https://quiethours-study.netlify.app/cafe-window/): A rainy café window at night: coffee, soft chatter and rain on the glass. Café sounds with lo-fi music, the classic study mix.
+- [Night desk](https://quiethours-study.netlify.app/night-desk/): A desk lamp, a notebook and the city at night through the window. Turning pages, a ticking clock and brown noise for late study.
+- [Library nook](https://quiethours-study.netlify.app/library-nook/): A library nook with bookshelves, candlelight and rain on an arched window. Library hush, turning pages and rain for studying.
+- [Night train](https://quiethours-study.netlify.app/night-train/): Watch the countryside pass from a night train window. Rhythmic train sounds and lo-fi music for focus, travel or sleep.
+- [Cozy village](https://quiethours-study.netlify.app/cozy-village/): A cute little village with houses, flowers and fluffy clouds. Birdsong, a stream and wind chimes with gentle music.
+- [Blocky caves](https://quiethours-study.netlify.app/blocky-caves/): A blocky world at night with glowing ores and torch-lit caves. Cave drips and quiet piano for calm, focused study.
+- [Pixel sunset](https://quiethours-study.netlify.app/pixel-sunset/): A retro synthwave sunset over a glowing grid. Soft rain and vinyl crackle with lo-fi beats for night coding and study.
+- [Floating islands](https://quiethours-study.netlify.app/floating-islands/): Floating islands with tiny houses and waterfalls drifting among the clouds. Wind, birds and wind chimes for dreamy focus.
+- [Lantern lake](https://quiethours-study.netlify.app/lantern-lake/): Glowing lanterns rising over a quiet lake and a pagoda. Crickets, frogs and a gentle stream for sleep and calm.
 
 ## Optional
 
-- [Sitemap](https://quiet-hours.example/sitemap.xml)
+- [Sitemap](https://quiethours-study.netlify.app/sitemap.xml)

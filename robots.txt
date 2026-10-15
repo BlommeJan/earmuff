@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 Disallow: /404.html
 
-Sitemap: https://quiet-hours.example/sitemap.xml
+Sitemap: https://quiethours-study.netlify.app/sitemap.xml
