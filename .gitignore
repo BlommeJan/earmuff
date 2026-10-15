@@ -1,0 +1,16 @@
+# macOS Finder metadata. One .DS_Store was already in the tree.
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor and OS scratch files
+*.swp
+*~
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Local secrets and logs
+.env
+.env.*
+*.log
