@@ -1,0 +1,22 @@
+# Apache: caching, compression, types and the 404 page
+ErrorDocument 404 /404.html
+AddType application/manifest+json .webmanifest
+AddType text/plain .txt
+AddType font/woff2 .woff2
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css application/javascript text/plain application/manifest+json image/svg+xml application/xml
+</IfModule>
+<IfModule mod_headers.c>
+  Header set X-Content-Type-Options "nosniff"
+  Header set Referrer-Policy "strict-origin-when-cross-origin"
+  Header set Permissions-Policy "camera=(), microphone=(), geolocation=()"
+  <FilesMatch "\.(css|js|woff2|mp3|jpg|png|ico|svg)$">
+    Header set Cache-Control "public, max-age=2592000"
+  </FilesMatch>
+  <FilesMatch "\.(html|webmanifest|txt|xml)$">
+    Header set Cache-Control "public, max-age=0, must-revalidate"
+  </FilesMatch>
+  <Files "sw.js">
+    Header set Cache-Control "no-cache"
+  </Files>
+</IfModule>

@@ -1,0 +1,289 @@
+# Quiet Hours: full description
+
+Free study ambience. Mix real rain, café, fireplace and nature sounds with lo-fi music over 37 living scenes. Pomodoro timer included, no sign-up, works offline.
+
+Website: https://quiet-hours.example/
+
+## What it does
+
+- Living scenes painted live in the browser, with gentle depth when you move the pointer.
+- 36 ambient sounds, each with its own volume, layered freely. Real recordings loop seamlessly; thunder, owl calls, page turns, whale song and a singing bowl play now and then.
+- Mixes: ten built-in mixes (for example Study session: lo-fi with light rain and café chatter) and your own saved mixes.
+- Music generated live in seven moods, or your own songs from your device.
+- Focus timer with 25/5, 50/10 and 90/20 sessions or custom lengths, a chime, and a short task list.
+- Settings for brightness, warmth, motion, picture quality, an always-on clock, an always-on timer and a sleep timer that fades sound out.
+- Works on phones, tablets and computers, installable as an app, and keeps working offline once sounds have played.
+- Keyboard: Space play or pause, arrow keys change scene, S sounds, M music, T timer, G scenes, H hide everything, F full screen.
+
+## Sounds
+
+- Rain: Light rain, Heavy rain, Rain on window, Rain on tent, Thunder
+- Nature: Wind, Rustling leaves, Forest birds, Crickets, Frogs, Owl, Crackling fire
+- Water: Stream, Waterfall, Ocean waves, Seagulls, Cave drips, Underwater, Bubbles, Whale song
+- Indoors: Café chatter, Library hush, Keyboard, Turning pages, Ticking clock, Purring cat, Wind chimes, Singing bowl, Vinyl crackle
+- Travel: Night train, Plane cabin, Distant city, Creaking boat
+- Noise: Brown noise, Pink noise, White noise
+
+## Music moods
+
+- Lo-fi beats: Dusty keys, a lazy beat
+- Rainy jazz: Brushes, warm keys, walking bass
+- Café piano: Light bossa, soft piano
+- Village days: Bright plucks and a bouncy step
+- Quiet caves: Sparse piano and a lot of space
+- Deep focus: Slow pads, nothing to distract
+- Night drift: Barely there, for winding down
+
+## Scenes
+
+### Forest rain (Rain)
+
+URL: https://quiet-hours.example/forest-rain/
+
+Tall pines, low mist and steady rain. A classic for long study sessions: the rain masks distractions without asking for attention. Starts with: light rain, rustling leaves, cave drips.
+
+### Rain on glass (Rain)
+
+URL: https://quiet-hours.example/rain-on-glass/
+
+A rainy window at night, city lights out of focus behind the drops. Pair rain on window with a little light rain for the cosiest version. Starts with: rain on window, light rain, distant city.
+
+### Rainy street (Rain)
+
+URL: https://quiet-hours.example/rainy-street/
+
+Neon reflections on a wet street and rain that never stops. Distant city sound underneath keeps it from feeling empty. Starts with: light rain, distant city, heavy rain.
+
+### Thunderstorm (Rain)
+
+URL: https://quiet-hours.example/thunderstorm/
+
+A full storm with heavy rain, rolling thunder and wind. Lightning flashes in time with the thunder. Turn the thunder down for steadier focus. Starts with: heavy rain, thunder, wind.
+
+### Tent at night (Rain)
+
+URL: https://quiet-hours.example/tent-at-night/
+
+Inside a tent with the flap open to a dark forest. Rain taps on the fabric while a lantern keeps the inside warm. Starts with: rain on tent, wind, owl.
+
+### Aquarium (Water)
+
+URL: https://quiet-hours.example/aquarium/
+
+A lit aquarium in a dark room with fish drifting between swaying plants. The bubbler and soft water sound make a gentle, steady bed. Starts with: bubbles, underwater, brown noise.
+
+### Coral reef (Water)
+
+URL: https://quiet-hours.example/coral-reef/
+
+Sunlight pours through clear water onto a bright reef full of fish. Underwater sound and the odd bubble keep things calm. Starts with: underwater, bubbles.
+
+### Deep sea (Water)
+
+URL: https://quiet-hours.example/deep-sea/
+
+The deep ocean: glowing jellyfish, drifting particles and, now and then, a whale passing in the dark with its song. Starts with: underwater, whale song, brown noise.
+
+### Kelp forest (Water)
+
+URL: https://quiet-hours.example/kelp-forest/
+
+Tall kelp sways in green light while a school of silver fish passes through. A soft, slow underwater scene. Starts with: underwater, bubbles, whale song.
+
+### Koi pond (Water)
+
+URL: https://quiet-hours.example/koi-pond/
+
+Looking down into a koi pond: lily pads, drifting petals and fish that wander slowly. Stream and birdsong set the mood. Starts with: stream, forest birds, wind chimes.
+
+### Moonlit ocean (Water)
+
+URL: https://quiet-hours.example/moonlit-ocean/
+
+A moonlit sea with waves rolling in and a glittering path of light on the water. Ocean waves are one of the best sounds for sleep. Starts with: ocean waves, wind.
+
+### Waterfall (Water)
+
+URL: https://quiet-hours.example/waterfall/
+
+A waterfall between mossy cliffs, mist rising from the pool. The steady roar works a lot like white noise, only warmer. Starts with: waterfall, forest birds, stream.
+
+### Mountain lake (Water)
+
+URL: https://quiet-hours.example/mountain-lake/
+
+Snowy peaks reflected in a still lake at dawn, with mist on the water and birds overhead. Starts with: forest birds, wind, stream.
+
+### Lighthouse (Water)
+
+URL: https://quiet-hours.example/lighthouse/
+
+A lighthouse on a dark headland, its beam sweeping across the sea. Waves and wind with a boat creaking somewhere out there. Starts with: ocean waves, wind, creaking boat.
+
+### Misty pines (Nature)
+
+URL: https://quiet-hours.example/misty-pines/
+
+Layers of pine trees fading into morning fog. Wind and birdsong for a quiet start to the day. Starts with: wind, forest birds, rustling leaves.
+
+### Autumn woods (Nature)
+
+URL: https://quiet-hours.example/autumn-woods/
+
+Warm autumn light through orange and red trees, leaves drifting down. Pair it with lo-fi for a cosy afternoon. Starts with: rustling leaves, forest birds, wind.
+
+### Firefly meadow (Nature)
+
+URL: https://quiet-hours.example/firefly-meadow/
+
+A summer night meadow full of fireflies, with crickets and frogs and an owl calling now and then. Starts with: crickets, frogs, owl.
+
+### Bamboo grove (Nature)
+
+URL: https://quiet-hours.example/bamboo-grove/
+
+A bright bamboo grove with light beams and drifting dust. Rustling leaves and a nearby stream keep it peaceful. Starts with: rustling leaves, forest birds, stream.
+
+### Sakura drift (Nature)
+
+URL: https://quiet-hours.example/sakura-drift/
+
+Pink cherry blossoms, a pagoda and a snowy mountain far away, with petals drifting past on the breeze. Starts with: forest birds, stream, wind, wind chimes.
+
+### Campfire (Nature)
+
+URL: https://quiet-hours.example/campfire/
+
+A campfire in a forest clearing under the Milky Way. Real crackling fire with crickets and an owl in the dark. Starts with: crackling fire, crickets, owl.
+
+### Snowy cabin (Nature)
+
+URL: https://quiet-hours.example/snowy-cabin/
+
+A log cabin glowing in the snow on a winter night. Wind outside and a crackling fire make it feel warm. Starts with: wind, crackling fire, owl.
+
+### Sunset beach (Nature)
+
+URL: https://quiet-hours.example/sunset-beach/
+
+A beach at sunset framed by palms, waves washing onto the sand and gulls overhead. Starts with: ocean waves, seagulls, wind.
+
+### Northern lights (Sky)
+
+URL: https://quiet-hours.example/northern-lights/
+
+Northern lights rippling above snowy peaks and their reflection in a still lake. Arctic wind and a singing bowl now and then. Starts with: wind, singing bowl.
+
+### Milky way (Sky)
+
+URL: https://quiet-hours.example/milky-way/
+
+The Milky Way rising over dark hills, with the odd shooting star. Crickets and a soft wind keep you company. Starts with: crickets, wind, owl.
+
+### Desert night (Sky)
+
+URL: https://quiet-hours.example/desert-night/
+
+Moonlit dunes and a huge starry sky, with desert wind moving over the sand. Starts with: wind, crickets.
+
+### Mountain sunrise (Sky)
+
+URL: https://quiet-hours.example/mountain-sunrise/
+
+Layer after layer of ridges in pink morning mist as the sun comes up. Birds and wind for a calm start. Starts with: wind, forest birds.
+
+### Above the clouds (Sky)
+
+URL: https://quiet-hours.example/above-the-clouds/
+
+A window seat above a sea of sunset clouds. Airplane cabin noise is a famously good sound for focus and sleep. Starts with: plane cabin.
+
+### Fireplace (Indoors)
+
+URL: https://quiet-hours.example/fireplace/
+
+A stone fireplace in a warm room, candles on the mantel and a clock ticking quietly. The coziest place to read. Starts with: crackling fire, ticking clock, wind.
+
+### Café window (Indoors)
+
+URL: https://quiet-hours.example/cafe-window/
+
+A café table by a rainy window, coffee steaming, the city glowing outside. Light rain plus a little café chatter is the mix students recommend most. Starts with: café chatter, light rain, rain on window.
+
+### Night desk (Indoors)
+
+URL: https://quiet-hours.example/night-desk/
+
+A late night desk by the window: lamp on, notebook open, the city lit up outside. Built for late study sessions. Starts with: turning pages, ticking clock, distant city, brown noise.
+
+### Library nook (Indoors)
+
+URL: https://quiet-hours.example/library-nook/
+
+A reading nook between full bookshelves, rain on an arched window and a cat asleep on the sill. Library hush and turning pages. Starts with: light rain, turning pages, library hush, crackling fire.
+
+### Night train (Indoors)
+
+URL: https://quiet-hours.example/night-train/
+
+A window seat on a night train, hills and towns sliding past in the dark. The steady rhythm of the train is great for focus. Starts with: night train, light rain.
+
+### Cozy village (Playful)
+
+URL: https://quiet-hours.example/cozy-village/
+
+A bright little village with round trees, colorful roofs and flowers everywhere. An original scene made in the spirit of cosy life games. Starts with: forest birds, stream, wind chimes.
+
+### Blocky caves (Playful)
+
+URL: https://quiet-hours.example/blocky-caves/
+
+A blocky landscape at night with torch-lit caves and glowing ores. An original scene inspired by voxel building games, with quiet piano to match. Starts with: cave drips, wind.
+
+### Pixel sunset (Playful)
+
+URL: https://quiet-hours.example/pixel-sunset/
+
+A striped retro sun setting over a neon grid. Soft rain and vinyl crackle fit it well, especially for late coding sessions. Starts with: light rain, vinyl crackle.
+
+### Floating islands (Playful)
+
+URL: https://quiet-hours.example/floating-islands/
+
+Little islands floating among the clouds, with tiny houses and waterfalls spilling into the sky. Starts with: wind, waterfall, forest birds, wind chimes.
+
+### Lantern lake (Playful)
+
+URL: https://quiet-hours.example/lantern-lake/
+
+Paper lanterns rising slowly over a still lake, their light reflected in the water beside a pagoda. Starts with: crickets, stream, frogs, wind chimes.
+
+## Questions
+
+### Is Quiet Hours free?
+
+Yes. Every scene, sound and the focus timer are free, with no account and no ads.
+
+### Which sound is best for studying?
+
+Steady sounds work best for most people: light rain, brown noise, a café murmur or a fireplace. A popular mix is lo-fi music around 60 percent, rain around 45 percent and café chatter around 25 percent. If you can pick out single voices or sounds, turn it down.
+
+### Can I mix sounds together?
+
+Yes. Open Sounds, tap as many as you like and give each its own volume. Save the mixes you like to use them again.
+
+### Does it work offline and on my phone?
+
+Yes. It works in any modern browser on phones, tablets and computers, and once a sound has played it keeps working offline. You can add it to your home screen like an app.
+
+### Is there a Pomodoro timer?
+
+Yes. The focus timer runs 25, 50 or 90 minute sessions with breaks in between, or your own lengths, with a soft chime and a small task list.
+
+### Where do the sounds come from?
+
+They are real field recordings released under CC0 and the Pixabay Content License, from the Moodist and Blanket projects. Brown, pink and white noise and the music are generated live in your browser.
+
+## Credits
+
+Field recordings from the Moodist library (Pixabay Content License and CC0) and the Blanket project (CC0). Icons by Font Awesome (CC BY 4.0). Fonts: Fraunces and Instrument Sans (SIL Open Font License). The village and cave scenes are original works inspired by cosy games.

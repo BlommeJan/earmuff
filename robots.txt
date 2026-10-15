@@ -1,0 +1,6 @@
+# Quiet Hours: everyone is welcome, search engines and AI assistants included.
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+Sitemap: https://quiet-hours.example/sitemap.xml

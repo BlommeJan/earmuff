@@ -1,0 +1,11 @@
+/* TEAM */
+Made by: Jan Blomme
+From: Belgium
+
+/* THANKS */
+Field recordings: Moodist library contributors, Blanket project (Freesound: gluckose, Falcet)
+Icons: Font Awesome Free
+Type: Fraunces, Instrument Sans
+
+/* SITE */
+Standards: HTML, CSS, JavaScript, Web Audio, Canvas
