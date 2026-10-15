@@ -75,6 +75,7 @@ To keep common AI crawlers out, add a `User-agent` block with `Disallow: /` to `
 | `robots.txt`, `sitemap.xml` | Search engines. The sitemap includes the share images |
 | `llms.txt`, `llms-full.txt` | Short and full notes for AI assistants, in the llms.txt format |
 | `humans.txt` | Credits |
+| `LICENSE` | GNU AGPL v3.0 for the original site, plus notices for recordings, fonts, and icons |
 | `_headers`, `.htaccess` | Cache headers for Netlify, Cloudflare Pages and Apache |
 | `readme/quiet-hours.png` | Screenshot used at the top of this file |
 
@@ -83,3 +84,11 @@ To keep common AI crawlers out, add a `User-agent` block with `Disallow: /` to `
 Made by Jan Blomme.
 
 Field recordings come from Moodist (Pixabay Content License and CC0) and Blanket (CC0). Icons are Font Awesome (CC BY 4.0). Fraunces and Instrument Sans are used under the SIL Open Font License. The credits also live in `humans.txt` and in Settings inside the app.
+
+## License
+
+The original Quiet Hours site is licensed under the [GNU Affero General Public License version 3](LICENSE) (AGPL-3.0).
+
+Copyright (C) 2026 Jan Blomme. That notice is what makes the stay-open rule enforceable.
+
+Recordings, fonts, and icons keep their own licenses. Those terms are listed after the AGPL text in [LICENSE](LICENSE).
