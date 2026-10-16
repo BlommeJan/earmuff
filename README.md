@@ -1,23 +1,25 @@
-# Quiet Hours
+# Earmuff
 
-![Quiet Hours on the café window scene: rain on a three-pane window over night city lights, a clock at 09:20 on Thursday 15 October, books, coffee and a plant on the sill, and the Café window controls along the bottom.](readme/quiet-hours.png)
+**A little warmth for your focus.** Background sounds without the feed.
 
-Lo-fi, rain and real ambient sounds for studying. [Quiet Hours](https://quiethours-study.netlify.app/) is a static site: upload this folder to a web host and it works. There is no build step, no server code and no database.
+![Earmuff on the café window scene: rain on a three-pane window over night city lights, a clock at 09:20 on Thursday 15 October, books, coffee and a plant on the sill, and the Café window controls along the bottom.](readme/earmuff.png)
+
+Lo-fi, rain and real ambient sounds for studying and focusing. [Earmuff](https://earmuff.xyz/) is a static site: upload this folder to a web host and it works. There is no build step, no server code and no database.
 
 ## Why not just use YouTube?
 
-Plenty of people put a lo-fi or rain stream on YouTube to study, then lose twenty minutes to the sidebar, the autoplay queue or a notification. Quiet Hours is meant as the replacement for that habit: the same background sound, without the feed that pulls you away.
+Plenty of people put a lo-fi or rain stream on YouTube to study, then lose twenty minutes to the sidebar, the autoplay queue or a notification. Earmuff is meant as the replacement for that habit: background sounds without the feed that pulls you away.
 
 - No recommendations, autoplay queue, comments or Shorts, so there is nothing to click into.
 - No ads breaking into the sound, and no account to sign in to.
 - Sound that keeps going: music and mixes are generated in the browser or played from saved recordings, so it does not depend on a video player.
 - A Pomodoro timer on the same page, so the break is planned and not a tab you drift into.
 
-Tip: if YouTube is your usual rabbit hole, open Quiet Hours in its own window or pinned tab, start a mix, and leave the other tabs closed while the timer runs.
+Tip: if YouTube is your usual rabbit hole, open Earmuff in its own window or pinned tab, start a mix, and leave the other tabs closed while the timer runs.
 
 ## Live site
 
-The published copy is [https://quiethours-study.netlify.app/](https://quiethours-study.netlify.app/).
+The published copy is [https://earmuff.xyz/](https://earmuff.xyz/).
 
 Canonical links, share cards, `sitemap.xml`, `robots.txt`, `llms.txt` and `llms-full.txt` already use that address. The café window is the scene that opens first.
 
@@ -45,8 +47,8 @@ Netlify is the host for the live site. To publish this folder yourself, upload i
 
 ```nginx
 server {
-  server_name quiethours-study.netlify.app;
-  root /var/www/quiet-hours;
+  server_name earmuff.xyz;
+  root /var/www/earmuff;
   index index.html;
   error_page 404 /404.html;
   types { application/manifest+json webmanifest; }
@@ -67,7 +69,7 @@ server {
 }
 ```
 
-After a copy is public, submit `https://quiethours-study.netlify.app/sitemap.xml` in Google Search Console and Bing Webmaster Tools. Every scene page has its own share card in `og/`.
+After a copy is public, submit `https://earmuff.xyz/sitemap.xml` in Google Search Console and Bing Webmaster Tools. Every scene page has its own share card in `og/`.
 
 To keep common AI crawlers out, add a `User-agent` block with `Disallow: /` to `robots.txt` for each crawler you want to refuse.
 
@@ -89,7 +91,7 @@ To keep common AI crawlers out, add a `User-agent` block with `Disallow: /` to `
 | `humans.txt`                                                   | Credits                                                                                          |
 | `LICENSE`                                                      | GNU AGPL v3.0 for the original site, plus notices for recordings, fonts, and icons               |
 | `_headers`, `.htaccess`                                        | Cache headers for Netlify, Cloudflare Pages and Apache                                           |
-| `readme/quiet-hours.png`                                       | Screenshot used at the top of this file                                                          |
+| `readme/earmuff.png`                                       | Screenshot used at the top of this file                                                          |
 
 
 ## Credits
@@ -100,7 +102,7 @@ Field recordings come from Moodist (Pixabay Content License and CC0) and Blanket
 
 ## License
 
-The original Quiet Hours site is licensed under the [GNU Affero General Public License version 3](LICENSE) (AGPL-3.0).
+The original Earmuff site is licensed under the [GNU Affero General Public License version 3](LICENSE) (AGPL-3.0).
 
 Copyright (C) 2026 Jan Blomme. That notice is what makes the stay-open rule enforceable.
 

@@ -1,6 +1,6 @@
-# Quiet Hours: everyone is welcome, search engines and AI assistants included.
+# Earmuff: everyone is welcome, search engines and AI assistants included.
 User-agent: *
 Allow: /
 Disallow: /404.html
 
-Sitemap: https://quiethours-study.netlify.app/sitemap.xml
+Sitemap: https://earmuff.xyz/sitemap.xml

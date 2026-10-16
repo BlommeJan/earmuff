@@ -1,8 +1,8 @@
-# Quiet Hours: full description
+# Earmuff: full description
 
 Free study ambience. Mix real rain, café, fireplace and nature sounds with lo-fi music over 37 living scenes. Pomodoro timer included, no sign-up, works offline.
 
-Website: https://quiethours-study.netlify.app/
+Website: https://earmuff.xyz/
 
 ## What it does
 
@@ -38,229 +38,229 @@ Website: https://quiethours-study.netlify.app/
 
 ### Forest rain (Rain)
 
-URL: https://quiethours-study.netlify.app/forest-rain/
+URL: https://earmuff.xyz/forest-rain/
 
 Tall pines, low mist and steady rain. A classic for long study sessions: the rain masks distractions without asking for attention. Starts with: light rain, rustling leaves, cave drips.
 
 ### Rain on glass (Rain)
 
-URL: https://quiethours-study.netlify.app/rain-on-glass/
+URL: https://earmuff.xyz/rain-on-glass/
 
 A rainy window at night, city lights out of focus behind the drops. Pair rain on window with a little light rain for the cosiest version. Starts with: rain on window, light rain, distant city.
 
 ### Rainy street (Rain)
 
-URL: https://quiethours-study.netlify.app/rainy-street/
+URL: https://earmuff.xyz/rainy-street/
 
 Neon reflections on a wet street and rain that never stops. Distant city sound underneath keeps it from feeling empty. Starts with: light rain, distant city, heavy rain.
 
 ### Thunderstorm (Rain)
 
-URL: https://quiethours-study.netlify.app/thunderstorm/
+URL: https://earmuff.xyz/thunderstorm/
 
 A full storm with heavy rain, rolling thunder and wind. Lightning flashes in time with the thunder. Turn the thunder down for steadier focus. Starts with: heavy rain, thunder, wind.
 
 ### Tent at night (Rain)
 
-URL: https://quiethours-study.netlify.app/tent-at-night/
+URL: https://earmuff.xyz/tent-at-night/
 
 Inside a tent with the flap open to a dark forest. Rain taps on the fabric while a lantern keeps the inside warm. Starts with: rain on tent, wind, owl.
 
 ### Aquarium (Water)
 
-URL: https://quiethours-study.netlify.app/aquarium/
+URL: https://earmuff.xyz/aquarium/
 
 A lit aquarium in a dark room with fish drifting between swaying plants. The bubbler and soft water sound make a gentle, steady bed. Starts with: bubbles, underwater, brown noise.
 
 ### Coral reef (Water)
 
-URL: https://quiethours-study.netlify.app/coral-reef/
+URL: https://earmuff.xyz/coral-reef/
 
 Sunlight pours through clear water onto a bright reef full of fish. Underwater sound and the odd bubble keep things calm. Starts with: underwater, bubbles.
 
 ### Deep sea (Water)
 
-URL: https://quiethours-study.netlify.app/deep-sea/
+URL: https://earmuff.xyz/deep-sea/
 
 The deep ocean: glowing jellyfish, drifting particles and, now and then, a whale passing in the dark with its song. Starts with: underwater, whale song, brown noise.
 
 ### Kelp forest (Water)
 
-URL: https://quiethours-study.netlify.app/kelp-forest/
+URL: https://earmuff.xyz/kelp-forest/
 
 Tall kelp sways in green light while a school of silver fish passes through. A soft, slow underwater scene. Starts with: underwater, bubbles, whale song.
 
 ### Koi pond (Water)
 
-URL: https://quiethours-study.netlify.app/koi-pond/
+URL: https://earmuff.xyz/koi-pond/
 
 Looking down into a koi pond: lily pads, drifting petals and fish that wander slowly. Stream and birdsong set the mood. Starts with: stream, forest birds, wind chimes.
 
 ### Moonlit ocean (Water)
 
-URL: https://quiethours-study.netlify.app/moonlit-ocean/
+URL: https://earmuff.xyz/moonlit-ocean/
 
 A moonlit sea with waves rolling in and a glittering path of light on the water. Ocean waves are one of the best sounds for sleep. Starts with: ocean waves, wind.
 
 ### Waterfall (Water)
 
-URL: https://quiethours-study.netlify.app/waterfall/
+URL: https://earmuff.xyz/waterfall/
 
 A waterfall between mossy cliffs, mist rising from the pool. The steady roar works a lot like white noise, only warmer. Starts with: waterfall, forest birds, stream.
 
 ### Mountain lake (Water)
 
-URL: https://quiethours-study.netlify.app/mountain-lake/
+URL: https://earmuff.xyz/mountain-lake/
 
 Snowy peaks reflected in a still lake at dawn, with mist on the water and birds overhead. Starts with: forest birds, wind, stream.
 
 ### Lighthouse (Water)
 
-URL: https://quiethours-study.netlify.app/lighthouse/
+URL: https://earmuff.xyz/lighthouse/
 
 A lighthouse on a dark headland, its beam sweeping across the sea. Waves and wind with a boat creaking somewhere out there. Starts with: ocean waves, wind, creaking boat.
 
 ### Misty pines (Nature)
 
-URL: https://quiethours-study.netlify.app/misty-pines/
+URL: https://earmuff.xyz/misty-pines/
 
 Layers of pine trees fading into morning fog. Wind and birdsong for a quiet start to the day. Starts with: wind, forest birds, rustling leaves.
 
 ### Autumn woods (Nature)
 
-URL: https://quiethours-study.netlify.app/autumn-woods/
+URL: https://earmuff.xyz/autumn-woods/
 
 Warm autumn light through orange and red trees, leaves drifting down. Pair it with lo-fi for a cosy afternoon. Starts with: rustling leaves, forest birds, wind.
 
 ### Firefly meadow (Nature)
 
-URL: https://quiethours-study.netlify.app/firefly-meadow/
+URL: https://earmuff.xyz/firefly-meadow/
 
 A summer night meadow full of fireflies, with crickets and frogs and an owl calling now and then. Starts with: crickets, frogs, owl.
 
 ### Bamboo grove (Nature)
 
-URL: https://quiethours-study.netlify.app/bamboo-grove/
+URL: https://earmuff.xyz/bamboo-grove/
 
 A bright bamboo grove with light beams and drifting dust. Rustling leaves and a nearby stream keep it peaceful. Starts with: rustling leaves, forest birds, stream.
 
 ### Sakura drift (Nature)
 
-URL: https://quiethours-study.netlify.app/sakura-drift/
+URL: https://earmuff.xyz/sakura-drift/
 
 Pink cherry blossoms, a pagoda and a snowy mountain far away, with petals drifting past on the breeze. Starts with: forest birds, stream, wind, wind chimes.
 
 ### Campfire (Nature)
 
-URL: https://quiethours-study.netlify.app/campfire/
+URL: https://earmuff.xyz/campfire/
 
 A campfire in a forest clearing under the Milky Way. Real crackling fire with crickets and an owl in the dark. Starts with: crackling fire, crickets, owl.
 
 ### Snowy cabin (Nature)
 
-URL: https://quiethours-study.netlify.app/snowy-cabin/
+URL: https://earmuff.xyz/snowy-cabin/
 
 A log cabin glowing in the snow on a winter night. Wind outside and a crackling fire make it feel warm. Starts with: wind, crackling fire, owl.
 
 ### Sunset beach (Nature)
 
-URL: https://quiethours-study.netlify.app/sunset-beach/
+URL: https://earmuff.xyz/sunset-beach/
 
 A beach at sunset framed by palms, waves washing onto the sand and gulls overhead. Starts with: ocean waves, seagulls, wind.
 
 ### Northern lights (Sky)
 
-URL: https://quiethours-study.netlify.app/northern-lights/
+URL: https://earmuff.xyz/northern-lights/
 
 Northern lights rippling above snowy peaks and their reflection in a still lake. Arctic wind and a singing bowl now and then. Starts with: wind, singing bowl.
 
 ### Milky way (Sky)
 
-URL: https://quiethours-study.netlify.app/milky-way/
+URL: https://earmuff.xyz/milky-way/
 
 The Milky Way rising over dark hills, with the odd shooting star. Crickets and a soft wind keep you company. Starts with: crickets, wind, owl.
 
 ### Desert night (Sky)
 
-URL: https://quiethours-study.netlify.app/desert-night/
+URL: https://earmuff.xyz/desert-night/
 
 Moonlit dunes and a huge starry sky, with desert wind moving over the sand. Starts with: wind, crickets.
 
 ### Mountain sunrise (Sky)
 
-URL: https://quiethours-study.netlify.app/mountain-sunrise/
+URL: https://earmuff.xyz/mountain-sunrise/
 
 Layer after layer of ridges in pink morning mist as the sun comes up. Birds and wind for a calm start. Starts with: wind, forest birds.
 
 ### Above the clouds (Sky)
 
-URL: https://quiethours-study.netlify.app/above-the-clouds/
+URL: https://earmuff.xyz/above-the-clouds/
 
 A window seat above a sea of sunset clouds. Airplane cabin noise is a famously good sound for focus and sleep. Starts with: plane cabin.
 
 ### Fireplace (Indoors)
 
-URL: https://quiethours-study.netlify.app/fireplace/
+URL: https://earmuff.xyz/fireplace/
 
 A stone fireplace in a warm room, candles on the mantel and a clock ticking quietly. The coziest place to read. Starts with: crackling fire, ticking clock, wind.
 
 ### Café window (Indoors)
 
-URL: https://quiethours-study.netlify.app/cafe-window/
+URL: https://earmuff.xyz/cafe-window/
 
 A café table by a rainy window, coffee steaming, the city glowing outside. Light rain plus a little café chatter is the mix students recommend most. Starts with: café chatter, light rain, rain on window.
 
 ### Night desk (Indoors)
 
-URL: https://quiethours-study.netlify.app/night-desk/
+URL: https://earmuff.xyz/night-desk/
 
 A late night desk by the window: lamp on, notebook open, the city lit up outside. Built for late study sessions. Starts with: turning pages, ticking clock, distant city, brown noise.
 
 ### Library nook (Indoors)
 
-URL: https://quiethours-study.netlify.app/library-nook/
+URL: https://earmuff.xyz/library-nook/
 
 A reading nook between full bookshelves, rain on an arched window and a cat asleep on the sill. Library hush and turning pages. Starts with: light rain, turning pages, library hush, crackling fire.
 
 ### Night train (Indoors)
 
-URL: https://quiethours-study.netlify.app/night-train/
+URL: https://earmuff.xyz/night-train/
 
 A window seat on a night train, hills and towns sliding past in the dark. The steady rhythm of the train is great for focus. Starts with: night train, light rain.
 
 ### Cozy village (Playful)
 
-URL: https://quiethours-study.netlify.app/cozy-village/
+URL: https://earmuff.xyz/cozy-village/
 
 A bright little village with round trees, colorful roofs and flowers everywhere. An original scene made in the spirit of cosy life games. Starts with: forest birds, stream, wind chimes.
 
 ### Blocky caves (Playful)
 
-URL: https://quiethours-study.netlify.app/blocky-caves/
+URL: https://earmuff.xyz/blocky-caves/
 
 A blocky landscape at night with torch-lit caves and glowing ores. An original scene inspired by voxel building games, with quiet piano to match. Starts with: cave drips, wind.
 
 ### Pixel sunset (Playful)
 
-URL: https://quiethours-study.netlify.app/pixel-sunset/
+URL: https://earmuff.xyz/pixel-sunset/
 
 A striped retro sun setting over a neon grid. Soft rain and vinyl crackle fit it well, especially for late coding sessions. Starts with: light rain, vinyl crackle.
 
 ### Floating islands (Playful)
 
-URL: https://quiethours-study.netlify.app/floating-islands/
+URL: https://earmuff.xyz/floating-islands/
 
 Little islands floating among the clouds, with tiny houses and waterfalls spilling into the sky. Starts with: wind, waterfall, forest birds, wind chimes.
 
 ### Lantern lake (Playful)
 
-URL: https://quiethours-study.netlify.app/lantern-lake/
+URL: https://earmuff.xyz/lantern-lake/
 
 Paper lanterns rising slowly over a still lake, their light reflected in the water beside a pagoda. Starts with: crickets, stream, frogs, wind chimes.
 
 ## Questions
 
-### Is Quiet Hours free?
+### Is Earmuff free?
 
 Yes. Every scene, sound and the focus timer are free, with no account and no ads.
 
