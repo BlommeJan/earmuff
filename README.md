@@ -13,9 +13,11 @@
   <img src="https://img.shields.io/badge/sounds-36-ffb86b?style=flat-square&labelColor=241d19" alt="36 sounds">
   <img src="https://img.shields.io/badge/ads-none-ffb86b?style=flat-square&labelColor=241d19" alt="No ads">
   <img src="https://img.shields.io/badge/sign--up-not%20needed-ffb86b?style=flat-square&labelColor=241d19" alt="No sign-up needed">
-  <img src="https://img.shields.io/badge/works-offline-ffb86b?style=flat-square&labelColor=241d19" alt="Works offline">
+  <img src="https://img.shields.io/badge/works-offline%2A-ffb86b?style=flat-square&labelColor=241d19" alt="Works offline*">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-AGPL--3.0-ffb86b?style=flat-square&labelColor=241d19" alt="License: AGPL-3.0"></a>
 </p>
+
+<sub>* Offline works after your first visit, for the sounds you have already played.</sub>
 
 </div>
 
@@ -85,7 +87,8 @@ Earmuff has nowhere to wander off to. There's no sidebar, no autoplay, no commen
 
 <br><br>
 
-<sub>Free · No account · No ads · Works offline</sub>
+<sub>Free · No account · No ads · Works offline*</sub><br>
+<sub>* After your first visit, for the sounds you have already played.</sub>
 
 </div>
 
