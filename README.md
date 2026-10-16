@@ -4,6 +4,17 @@
 
 Lo-fi, rain and real ambient sounds for studying. [Quiet Hours](https://quiethours-study.netlify.app/) is a static site: upload this folder to a web host and it works. There is no build step, no server code and no database.
 
+## Why not just use YouTube?
+
+Plenty of people put a lo-fi or rain stream on YouTube to study, then lose twenty minutes to the sidebar, the autoplay queue or a notification. Quiet Hours is meant as the replacement for that habit: the same background sound, without the feed that pulls you away.
+
+- No recommendations, autoplay queue, comments or Shorts, so there is nothing to click into.
+- No ads breaking into the sound, and no account to sign in to.
+- Sound that keeps going: music and mixes are generated in the browser or played from saved recordings, so it does not depend on a video player.
+- A Pomodoro timer on the same page, so the break is planned and not a tab you drift into.
+
+Tip: if YouTube is your usual rabbit hole, open Quiet Hours in its own window or pinned tab, start a mix, and leave the other tabs closed while the timer runs.
+
 ## Live site
 
 The published copy is [https://quiethours-study.netlify.app/](https://quiethours-study.netlify.app/).
@@ -62,22 +73,24 @@ To keep common AI crawlers out, add a `User-agent` block with `Disallow: /` to `
 
 ## Folder
 
-| Path | What it is |
-| --- | --- |
-| `index.html` | The app and the home page |
-| `<scene>/index.html` | 37 scene pages. Each opens in that scene, with its own sounds, title, description and share card |
-| `404.html` | Not-found page (not indexed) |
-| `css/`, `js/`, `fonts/` | Styles, the app and the two typefaces |
-| `audio/` | 33 recordings as MP3 |
-| `og/` | Share cards, 1200 by 630 |
-| `favicon.ico`, `favicon.svg`, `apple-touch-icon.png`, `icons/` | Browser and home-screen icons |
-| `manifest.webmanifest`, `sw.js` | Installable app and offline support |
-| `robots.txt`, `sitemap.xml` | Search engines. The sitemap includes the share images |
-| `llms.txt`, `llms-full.txt` | Short and full notes for AI assistants, in the llms.txt format |
-| `humans.txt` | Credits |
-| `LICENSE` | GNU AGPL v3.0 for the original site, plus notices for recordings, fonts, and icons |
-| `_headers`, `.htaccess` | Cache headers for Netlify, Cloudflare Pages and Apache |
-| `readme/quiet-hours.png` | Screenshot used at the top of this file |
+
+| Path                                                           | What it is                                                                                       |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| `index.html`                                                   | The app and the home page                                                                        |
+| `<scene>/index.html`                                           | 37 scene pages. Each opens in that scene, with its own sounds, title, description and share card |
+| `404.html`                                                     | Not-found page (not indexed)                                                                     |
+| `css/`, `js/`, `fonts/`                                        | Styles, the app and the two typefaces                                                            |
+| `audio/`                                                       | 33 recordings as MP3                                                                             |
+| `og/`                                                          | Share cards, 1200 by 630                                                                         |
+| `favicon.ico`, `favicon.svg`, `apple-touch-icon.png`, `icons/` | Browser and home-screen icons                                                                    |
+| `manifest.webmanifest`, `sw.js`                                | Installable app and offline support                                                              |
+| `robots.txt`, `sitemap.xml`                                    | Search engines. The sitemap includes the share images                                            |
+| `llms.txt`, `llms-full.txt`                                    | Short and full notes for AI assistants, in the llms.txt format                                   |
+| `humans.txt`                                                   | Credits                                                                                          |
+| `LICENSE`                                                      | GNU AGPL v3.0 for the original site, plus notices for recordings, fonts, and icons               |
+| `_headers`, `.htaccess`                                        | Cache headers for Netlify, Cloudflare Pages and Apache                                           |
+| `readme/quiet-hours.png`                                       | Screenshot used at the top of this file                                                          |
+
 
 ## Credits
 
