@@ -2,6 +2,10 @@
 Made by: Jan Blomme
 From: Belgium
 
+/* HELPED BY */
+Claude (Anthropic): finding more sounds, the rename to Earmuff, the README
+Cursor: the tedious technical work
+
 /* THANKS */
 Field recordings: Moodist library contributors, Blanket project (Freesound: gluckose, Falcet)
 Icons: Font Awesome Free

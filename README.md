@@ -99,7 +99,14 @@ Earmuff has nowhere to wander off to. There's no sidebar, no autoplay, no commen
 
 <br>
 
-Made by **Jan Blomme**.
+Made by **Jan Blomme**, who came up with Earmuff and built the app.
+
+With help from two AI assistants:
+
+- **Claude** (Anthropic) helped find more sounds, and later with the rename to Earmuff and this README.
+- **Cursor** helped with the tedious technical work.
+
+Sounds, icons and type:
 
 - Field recordings from [Moodist](https://github.com/remvze/moodist) (Pixabay Content License and CC0) and [Blanket](https://github.com/rafaelmardojai/blanket) (CC0)
 - Icons from [Font Awesome](https://fontawesome.com/) (CC BY 4.0)
