@@ -1,46 +1,34 @@
 <div align="center">
 
-<img src="icons/icon-192.png" width="96" height="96" alt="Earmuff icon: a pair of warm amber earmuffs on a dark square">
+<img src="icons/icon-192.png" width="88" height="88" alt="Earmuff icon: a pair of warm amber earmuffs on a dark square">
 
 <h1>Earmuff</h1>
 
-<p><b>A little warmth for your focus.</b><br>Background sounds without the feed.</p>
+<p><i>A little warmth for your focus.</i></p>
 
-<p>
-  <a href="https://earmuff.xyz/"><img src="https://img.shields.io/badge/%E2%96%B6%20Start%20listening-earmuff.xyz-ffb86b?style=for-the-badge&labelColor=241d19" alt="Start listening at earmuff.xyz"></a>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/scenes-37-ffcf8a?style=flat-square&labelColor=241d19" alt="37 scenes">
-  <img src="https://img.shields.io/badge/sounds-36-ffcf8a?style=flat-square&labelColor=241d19" alt="36 sounds">
-  <img src="https://img.shields.io/badge/ads-none-ffcf8a?style=flat-square&labelColor=241d19" alt="No ads">
-  <img src="https://img.shields.io/badge/account-not%20needed-ffcf8a?style=flat-square&labelColor=241d19" alt="No account needed">
-  <img src="https://img.shields.io/badge/works-offline-ffcf8a?style=flat-square&labelColor=241d19" alt="Works offline">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-AGPL--3.0-ffcf8a?style=flat-square&labelColor=241d19" alt="License: AGPL-3.0"></a>
-</p>
-
-<a href="readme/launch.mp4"><img src="readme/launch.jpg" width="820" alt="Play the 22-second Earmuff video: the café window, five scenes from campfire to snowy cabin, the Sounds mixer and the focus timer."></a>
-
-<sub>▶ Click to watch the 22-second tour</sub>
+<a href="https://earmuff.xyz/"><img src="readme/listen-now.png" width="251" alt="Listen now at earmuff.xyz"></a>
 
 </div>
 
 <br>
 
-Earmuff is a free place to study, read and focus. Pick a scene, layer the sounds you like, start the timer, and let everything else fade out. It runs in your browser, with nothing to install and nothing to sign up for.
+It's late. Rain runs down the window, the lamp is on, and a cup is going cold beside your notes. Somewhere a fire crackles. The world outside goes soft and far away, and it's just you and the thing you're working on.
 
-## Why not just put on YouTube?
+**That's what Earmuff is for.** Pick a place, put your earmuffs on, and stay with your work. No feed waiting to pull you away, no ad cutting into the rain, nothing to sign up for. Just background sounds, and a little warmth while you focus.
 
-You open a lo-fi stream to study. Twenty minutes later you're three videos deep, and the stream is still playing in a tab you forgot about.
+<br>
 
-Earmuff gives you the sound without the rabbit hole:
+<div align="center">
 
-- **Nothing to click into.** No recommendations, autoplay queue, comments or Shorts.
-- **Nothing breaking in.** No ads in the middle of your rain.
-- **Nothing to log into.** No account and no tracking of what you listen to.
-- **A break you planned.** The focus timer sits on the same page, so the pause is on purpose.
+<a href="readme/launch.mp4"><img src="readme/launch.jpg" width="820" alt="Play the 22-second Earmuff video: the café window, five scenes from campfire to snowy cabin, the Sounds mixer and the focus timer."></a>
 
-## 37 places to sit
+<sub>▶ Take the 22-second tour</sub>
+
+</div>
+
+## Find your spot
+
+Every scene is a small living place with its own sounds already playing. Sit by a campfire, ride a night train, or watch jellyfish drift past in the deep sea. There are 37 of them.
 
 <table>
   <tr>
@@ -60,26 +48,35 @@ Earmuff gives you the sound without the rabbit hole:
   </tr>
 </table>
 
-<p align="center"><sub>…plus a rainy café window, a thunderstorm, a lighthouse, a waterfall, floating islands, a blocky cave and 22 more. <a href="https://earmuff.xyz/">See them all →</a></sub></p>
+<p align="center"><sub>Also a rainy café window, a thunderstorm, a lighthouse, a waterfall, floating islands, a blocky cave and 22 more.</sub></p>
 
-## What's in the mix
+## Not another tab
 
-| | |
-| --- | --- |
-| 🌧️ **36 sounds** | Real field recordings of rain, thunder, fire, café chatter, forests, water, trains and planes, plus brown, pink and white noise. Mix as many as you like, each with its own volume. |
-| 🎹 **Lo-fi music** | Generated live in your browser, so there's always something playing. You can also play your own audio files. |
-| ⏱️ **Focus timer** | A Pomodoro timer built in, with a small task list beside it. |
-| 💾 **Saved mixes** | Keep the blends you like and switch back to them in one tap. |
-| 📴 **Works offline** | Sounds you've played once keep working without a connection. Add it to your home screen and it opens like an app. |
-| 🔒 **Stays on your device** | Settings, mixes and tasks live in your browser. No account, no ads, no tracking. |
+You know how it goes. You put on a lo-fi stream to study, and twenty minutes later you're three videos deep, wondering where the time went.
+
+Earmuff has nowhere to wander off to. There's no sidebar, no autoplay, no comments and no "up next", only the sound you chose. When you need a break, the focus timer tells you, so the break is one you planned.
+
+## What's playing
+
+**Real sounds, mixed your way.** There are 36 of them: rain on glass, distant thunder, café chatter, a crackling fire, wind in the pines, waves, a train on its tracks. Layer as many as you like and set each one as loud or as soft as you want. Brown, pink and white noise are there too.
+
+**Lo-fi that never runs out.** The music is made live in your browser, so it keeps going for as long as you do. You can also play your own audio files.
+
+**A gentle timer.** A Pomodoro timer and a small task list sit right beside the sounds. A soft chime tells you when it's time for a break.
+
+**Yours, and only yours.** There's no account and no ads, and nothing tracks what you listen to. Your mixes and settings stay in your browser. Once a sound has played, it keeps working offline, and you can add Earmuff to your home screen like an app.
 
 <br>
 
 <div align="center">
 
-### Put your earmuffs on
+### Your earmuffs are on the desk.
 
-<a href="https://earmuff.xyz/"><img src="https://img.shields.io/badge/%E2%96%B6%20Start%20listening-earmuff.xyz-ffb86b?style=for-the-badge&labelColor=241d19" alt="Start listening at earmuff.xyz"></a>
+<a href="https://earmuff.xyz/"><img src="readme/listen-now.png" width="251" alt="Listen now at earmuff.xyz"></a>
+
+<br><br>
+
+<sub>Free · No account · No ads · Works offline</sub>
 
 </div>
 
