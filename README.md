@@ -8,6 +8,15 @@
 
 <a href="https://earmuff.xyz/"><img src="readme/listen-now.png" width="251" alt="Listen now at earmuff.xyz"></a>
 
+<p>
+  <img src="https://img.shields.io/badge/scenes-37-ffb86b?style=flat-square&labelColor=241d19" alt="37 scenes">
+  <img src="https://img.shields.io/badge/sounds-36-ffb86b?style=flat-square&labelColor=241d19" alt="36 sounds">
+  <img src="https://img.shields.io/badge/ads-none-ffb86b?style=flat-square&labelColor=241d19" alt="No ads">
+  <img src="https://img.shields.io/badge/sign--up-not%20needed-ffb86b?style=flat-square&labelColor=241d19" alt="No sign-up needed">
+  <img src="https://img.shields.io/badge/works-offline-ffb86b?style=flat-square&labelColor=241d19" alt="Works offline">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-AGPL--3.0-ffb86b?style=flat-square&labelColor=241d19" alt="License: AGPL-3.0"></a>
+</p>
+
 </div>
 
 <br>
