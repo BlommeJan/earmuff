@@ -14,3 +14,8 @@ Desktop.ini
 .env
 .env.*
 *.log
+
+# /brag working files: plan, poster, share copy, captured frames, node_modules.
+# The finished video lives in readme/launch.mp4.
+brag-output/
+brag-output-*/

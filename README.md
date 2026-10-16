@@ -2,7 +2,7 @@
 
 **A little warmth for your focus.** Background sounds without the feed.
 
-![Earmuff on the café window scene: rain on a three-pane window over night city lights, a clock at 09:20 on Thursday 15 October, books, coffee and a plant on the sill, and the Café window controls along the bottom.](readme/earmuff.png)
+[![Play the 22-second Earmuff video: the café window, five scenes from campfire to snowy cabin, the Sounds mixer and the focus timer.](readme/launch.jpg)](readme/launch.mp4)
 
 Lo-fi, rain and real ambient sounds for studying and focusing. [Earmuff](https://earmuff.xyz/) is a static site: upload this folder to a web host and it works. There is no build step, no server code and no database.
 
@@ -91,7 +91,8 @@ To keep common AI crawlers out, add a `User-agent` block with `Disallow: /` to `
 | `humans.txt`                                                   | Credits                                                                                          |
 | `LICENSE`                                                      | GNU AGPL v3.0 for the original site, plus notices for recordings, fonts, and icons               |
 | `_headers`, `.htaccess`                                        | Cache headers for Netlify, Cloudflare Pages and Apache                                           |
-| `readme/earmuff.png`                                       | Screenshot used at the top of this file                                                          |
+| `readme/launch.mp4`, `readme/launch.jpg`                   | Launch video and its play-button thumbnail, used at the top of this file                         |
+| `readme/earmuff.png`                                       | Screenshot of the café window scene                                                              |
 
 
 ## Credits
