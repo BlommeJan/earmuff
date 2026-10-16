@@ -17,8 +17,6 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-AGPL--3.0-ffb86b?style=flat-square&labelColor=241d19" alt="License: AGPL-3.0"></a>
 </p>
 
-<sub>* Offline works after your first visit, for the sounds you have already played.</sub>
-
 </div>
 
 <br>
